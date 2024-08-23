@@ -1,0 +1,14 @@
+flask
+fastapi
+uvicorn[standard]
+bcrypt
+sqlmodel
+opencv-python-headless
+pillow
+opencv-python
+numpy
+onnxruntime
+psycopg2
+pyyaml
+scikit-image
+
